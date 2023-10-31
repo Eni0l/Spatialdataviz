@@ -1,8 +1,8 @@
 # Spatialdataviz
-This project focused on optimizing electricity distribution in Lagos, Nigeria. Key activities included geospatial mapping of electrical infrastructure  to improve the efficiency, accuracy, and accountability of electricity distribution.
-# Electricity Transmission Company of Nigeria (Lagos Electric Grid Optimization: Enhancing Energy Accountability & Efficiency)
 
-This project aimed to optimize electricity distribution in Lagos, Nigeria by enhancing transformer allocation and billing practices. 
+# Electricity Transmission Company of Nigeria (Lagos Electric Grid Optimization: Enhancing Energy Accountability & Efficiency)
+This project focused on optimizing electricity distribution in Lagos, Nigeria. Key activities included geospatial mapping of electrical infrastructure  to improve the efficiency, accuracy, and accountability of electricity distribution.
+
 
 ## Problem
 The project addressed challenges in determining accurate energy consumption per transformer due to inconsistent customer grouping and illegal tapping of electricity.
